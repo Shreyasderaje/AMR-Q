@@ -1,0 +1,110 @@
+{
+  "tem-1": {
+    "key": "tem-1",
+    "name": "TEM-1 beta-lactamase",
+    "short": "TEM-1",
+    "enzyme_class": "Class A serine beta-lactamase",
+    "resistance_class": "class_a",
+    "pdb_id": "1BTL",
+    "uniprot": "P62593",
+    "chelation_relevant": false,
+    "pocket": {
+      "method": "curated",
+      "chain": "A",
+      "residues": [70, 73, 130, 132, 166, 171, 234, 235, 236]
+    },
+    "resistance_mechanism": "Serine beta-lactamase: catalytic Ser70 opens the beta-lactam ring of penicillins and early cephalosporins before they can inhibit penicillin-binding proteins.",
+    "clinical_note": "The archetypal plasmid-borne beta-lactamase; ancestor of the ESBL family, widespread in E. coli and K. pneumoniae.",
+    "notes": "Active site: Ser70 nucleophile, Lys73/Glu166 general base, Lys234/Thr235/Gly236 oxyanion hole. Inhibited by clavulanic acid, tazobactam, avibactam."
+  },
+  "kpc-2": {
+    "key": "kpc-2",
+    "name": "KPC-2 beta-lactamase",
+    "short": "KPC-2",
+    "enzyme_class": "Class A serine beta-lactamase (carbapenemase)",
+    "resistance_class": "class_a",
+    "pdb_id": "2OV5",
+    "uniprot": "Q9F663",
+    "chelation_relevant": false,
+    "pocket": {
+      "method": "curated",
+      "chain": "A",
+      "residues": [70, 73, 130, 132, 166, 234, 235, 236]
+    },
+    "resistance_mechanism": "Class A carbapenemase: hydrolyses almost all beta-lactams including carbapenems, the last-line beta-lactams.",
+    "clinical_note": "KPC is a top-priority WHO/cDC threat; major driver of carbapenem-resistant Enterobacterales (CRE) outbreaks.",
+    "notes": "Inhibited by avibactam, relebactam, vaborbactam; boronic-acid transition-state mimics are active-site inhibitors."
+  },
+  "ctx-m-14": {
+    "key": "ctx-m-14",
+    "name": "CTX-M-14 ESBL",
+    "short": "CTX-M-14",
+    "enzyme_class": "Class A extended-spectrum beta-lactamase (ESBL)",
+    "resistance_class": "class_a",
+    "pdb_id": "1YLT",
+    "uniprot": "Q9L5C7",
+    "chelation_relevant": false,
+    "pocket": {
+      "method": "curated",
+      "chain": "A",
+      "residues": [70, 73, 130, 132, 166, 234, 235, 236]
+    },
+    "resistance_mechanism": "Extended-spectrum class A enzyme: hydrolyses oxyimino-cephalosporins (cefotaxime, ceftriaxone) that defeat older TEM/SHV enzymes.",
+    "clinical_note": "The globally dominant ESBL family; CTX-M-14 and CTX-M-15 account for most ESBL urinary and bloodstream infections.",
+    "notes": "B3-strand expansion around residues 236-240 gives cefotaxime hydrolysis; avibactam restores susceptibility."
+  },
+  "ndm-1": {
+    "key": "ndm-1",
+    "name": "NDM-1 metallo-beta-lactamase",
+    "short": "NDM-1",
+    "enzyme_class": "Class B metallo-beta-lactamase (B1)",
+    "resistance_class": "class_b",
+    "pdb_id": "4HL2",
+    "uniprot": "C7C422",
+    "chelation_relevant": true,
+    "pocket": {
+      "method": "metal",
+      "chain": "A",
+      "residues": [120, 122, 124, 189, 208, 211, 220, 250]
+    },
+    "resistance_mechanism": "Zinc-dependent metallo-enzyme: hydrolyses nearly all beta-lactams including carbapenems. Serine-beta-lactamase inhibitors (clavulanate, avibactam) do NOT inhibit it.",
+    "clinical_note": "WHO critical-priority carbapenemase; spreads on plasmids across Enterobacterales worldwide. No approved NDM inhibitor as of 2026.",
+    "notes": "Zn1 ligands His120/His122/His189; Zn2 ligands Asp124/Cys208/His250. Metal-chelating compounds (ciclopirox, captopril, dipicolinate, aspergillomarasmine A) and thiol inhibitors are reported NDM-1 inhibitors - the quantum model scores metal chelation explicitly for this target."
+  },
+  "ampc": {
+    "key": "ampc",
+    "name": "AmpC beta-lactamase",
+    "short": "AmpC",
+    "enzyme_class": "Class C serine beta-lactamase",
+    "resistance_class": "class_c",
+    "pdb_id": "1KE4",
+    "uniprot": "P00811",
+    "chelation_relevant": false,
+    "pocket": {
+      "method": "curated",
+      "chain": "A",
+      "residues": [64, 67, 120, 150, 152, 315, 316, 317]
+    },
+    "resistance_mechanism": "Chromosomal class C enzyme: hydrolyses penicillins, cephalosporins and beta-lactam/beta-lactamase-inhibitor combinations; not inhibited by clavulanate (it induces AmpC expression).",
+    "clinical_note": "AmpC-derepressed P. aeruginosa and Enterobacter cloacae are notoriously multidrug-resistant.",
+    "notes": "Motifs SXXK (Ser64-Lys67), YXN (Tyr150-Asn152), KTG (Lys315-Thr316-Gly317); Gln120 partners the R1 amide. Boronates (e.g. the 1KE4 ligand) and avibactam inhibit it."
+  },
+  "acr-b": {
+    "key": "acr-b",
+    "name": "AcrB multidrug efflux pump",
+    "short": "AcrB",
+    "enzyme_class": "RND-family tripartite efflux pump (AcrAB-TolC)",
+    "resistance_class": "efflux",
+    "pdb_id": "4DX5",
+    "uniprot": "P31224",
+    "chelation_relevant": false,
+    "pocket": {
+      "method": "curated",
+      "chain": "B",
+      "residues": [178, 279, 326, 327, 573, 605, 610, 612, 615, 617, 626, 628]
+    },
+    "resistance_mechanism": "Proton-motive-force-driven pump that expels antibiotics (tetracyclines, quinolones, macrolides, chloramphenicol, rifampicin) straight out of the cell, lowering intracellular concentration below lethal levels.",
+    "clinical_note": "The workhorse multidrug pump of E. coli and Salmonella; efflux is a core mechanism of multidrug resistance and a prime adjuvant target (EPIs like PA beta-N, CCCP, NMP resensitize strains).",
+    "notes": "Distal (deep) binding pocket in the T-state protomer: hydrophobic trap Phe610/Phe615/Phe617/Phe628 + Val605/Ile626 (Vargiu 2015), plus the 5ENO MBX2319 SITE residues Phe178/Ala279/Pro326/Tyr327/Met573/Val612. The switch-loop Phe617 gates substrate export. Pocket defined from inhibitor-bound AcrB structures."
+  }
+}

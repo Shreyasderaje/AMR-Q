@@ -1,0 +1,25 @@
+# AMR-Q — Quantum-Assisted Antibiotic Resistance Fighter
+# Core runtime
+qiskit>=1.2
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+rdkit>=2023.9.4
+biopython>=1.83
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.6
+requests>=2.31
+python-multipart>=0.0.9
+
+# ML ranker
+# Tip (smaller download, CPU-only):  pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+
+# Optional quantum backends (uncomment to enable)
+# qiskit-aer>=0.14           # shot-based / noisy simulation backend
+# qiskit-ibm-runtime>=0.30   # run VQE on real IBM Quantum hardware (free account token required)
+
+# Dev / tests
+pytest>=8.0
+httpx>=0.27

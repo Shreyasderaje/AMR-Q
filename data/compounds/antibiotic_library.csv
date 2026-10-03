@@ -1,0 +1,169 @@
+name,smiles,drug_class,mechanism,known_targets,inchikey,source
+Amoxicillin,CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor,class_a;class_c;class_d,LSQZJLSUYDQPKJ-UHFFFAOYSA-N,pubchem
+Ampicillin,CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor,class_a;class_c;class_d,AVKUERGKIZMTKX-UHFFFAOYSA-N,pubchem
+Benzylpenicillin,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor,class_a;class_c;class_d,JGSARLDLIJGVTE-UHFFFAOYSA-N,pubchem
+Phenoxymethylpenicillin,CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor,class_a;class_c;class_d,BPLBGHOLXOTWMN-UHFFFAOYSA-N,pubchem
+Oxacillin,Cc1onc(-c2ccccc2)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,UWYHMGVUTGAWSP-UHFFFAOYSA-N,pubchem
+Cloxacillin,Cc1onc(-c2ccccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,LQOLIRLGBULYKD-UHFFFAOYSA-N,pubchem
+Dicloxacillin,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,YFAGHNZHGGCZAX-UHFFFAOYSA-N,pubchem
+Flucloxacillin,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,UIOFUWFRIANQPC-UHFFFAOYSA-N,pubchem
+Methicillin,COc1cccc(OC)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,RJQXTJLFIWVMTO-UHFFFAOYSA-N,pubchem
+Nafcillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,penicillin,Cell-wall transpeptidase (PBP) inhibitor; beta-lactamase-stable,class_a;class_c;class_d,GPXLMGHLHQJAGZ-UHFFFAOYSA-N,pubchem
+Piperacillin,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)O)c2ccccc2)C(=O)C1=O,penicillin,Antipseudomonal cell-wall (PBP) inhibitor,class_a;class_c;class_d,IVBHGBMCVLDMKU-UHFFFAOYSA-N,pubchem
+Ticarcillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O,penicillin,Antipseudomonal cell-wall (PBP) inhibitor,class_a;class_c;class_d,OHKOGUYZJXTSFX-UHFFFAOYSA-N,pubchem
+Carbenicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O,penicillin,Antipseudomonal cell-wall (PBP) inhibitor,class_a;class_c;class_d,FPPNZSSZRUTDAP-UHFFFAOYSA-N,pubchem
+Mecillinam,CC1(C)SC2C(N=CN3CCCCCC3)C(=O)N2C1C(=O)O,penicillin,PBP2-specific cell-wall inhibitor,class_a;class_c,BWWVAEOLVKTZFQ-UHFFFAOYSA-N,pubchem
+Pivmecillinam,CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(N=CN3CCCCCC3)C2SC1(C)C,penicillin,PBP2-specific cell-wall inhibitor (prodrug),class_a;class_c,NPGNOVNWUSPMDP-UHFFFAOYSA-N,pubchem
+Cephalexin,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1,cephalosporin,Cell-wall transpeptidase (PBP) inhibitor,class_a;class_c;class_d,ZAIPMKNFIOOWCQ-UHFFFAOYSA-N,pubchem
+Cefazolin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1,cephalosporin,First-generation cephalosporin (PBP inhibitor),class_a;class_c;class_d,MLYYVTUWGNIJIB-UHFFFAOYSA-N,pubchem
+Cefalotin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1,cephalosporin,First-generation cephalosporin (PBP inhibitor),class_a;class_c;class_d,XIURVHNZVLADCM-UHFFFAOYSA-N,pubchem
+Cephaloridine,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12,cephalosporin,First-generation cephalosporin (PBP inhibitor),class_a;class_c;class_d,CZTQZXZIADLWOZ-UHFFFAOYSA-N,pubchem
+Cefuroxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1,cephalosporin,Second-generation cephalosporin (PBP inhibitor),class_a;class_b;class_c;class_d,JFPVXVDWJQMJEE-UHFFFAOYSA-N,pubchem
+Cefoxitin,COC1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC21,cephalosporin,Cephamycin (PBP inhibitor); strong AmpC inducer,class_a;class_c;class_d,WZOZEZRFJCJXNZ-UHFFFAOYSA-N,pubchem
+Cefotetan,COC1(NC(=O)C2SC(=C(C(N)=O)C(=O)O)S2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,cephalosporin,Cephamycin (PBP inhibitor),class_a;class_c;class_d,SRZNHPXWXCNNDU-UHFFFAOYSA-N,pubchem
+Cefotaxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1csc(N)n1,cephalosporin,Third-generation cephalosporin (PBP inhibitor),class_a;class_b;class_c;class_d,GPRBEKHLDVQUJE-UHFFFAOYSA-N,pubchem
+Ceftizoxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=CCSC12)c1csc(N)n1,cephalosporin,Third-generation cephalosporin (PBP inhibitor),class_a;class_b;class_c;class_d,NNULBSISHYWZJU-UHFFFAOYSA-N,pubchem
+Ceftazidime,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O,cephalosporin,Third-generation antipseudomonal cephalosporin,class_a;class_b;class_c;class_d,ORFOPKXBNMVMKC-UHFFFAOYSA-N,pubchem
+Ceftriaxone,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CSC12)c1csc(N)n1,cephalosporin,Third-generation cephalosporin (PBP inhibitor),class_a;class_b;class_c;class_d,VAAUVRVFOQPIGI-UHFFFAOYSA-N,pubchem
+Cefepime,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1,cephalosporin,Fourth-generation cephalosporin,class_a;class_b;class_c;class_d,HVFLCNVBZFFHBT-UHFFFAOYSA-N,pubchem
+Cefpirome,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CSC12)c1csc(N)n1,cephalosporin,Fourth-generation cephalosporin,class_a;class_b;class_c;class_d,DKOQGJHPHLTOJR-UHFFFAOYSA-N,pubchem
+Cefixime,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOCC(=O)O)c3csc(N)n3)C2SC1,cephalosporin,Third-generation oral cephalosporin,class_a;class_b;class_c;class_d,OKBVVJOGVLARMR-UHFFFAOYSA-N,pubchem
+Cefpodoxime,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1,cephalosporin,Third-generation oral cephalosporin,class_a;class_b;class_c;class_d,WYUSVOMTXWRGEK-UHFFFAOYSA-N,pubchem
+Cefdinir,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,cephalosporin,Third-generation oral cephalosporin,class_a;class_b;class_c;class_d,RTXOFQZKPXMALH-UHFFFAOYSA-N,pubchem
+Ceftaroline,CCON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NP(=O)(O)O)n1,cephalosporin,Fifth-generation cephalosporin (MRSA-active),class_a;class_b;class_c;class_d,ZCCUWMICIWSJIX-UHFFFAOYSA-N,pubchem
+Ceftolozane,Cn1c(N)c(NC(=O)NCCN)c[n+]1CC1=C(C(=O)[O-])N2C(=O)C(NC(=O)C(=NOC(C)(C)C(=O)O)c3nsc(N)n3)C2SC1,cephalosporin,Antipseudomonal cephalosporin (paired with tazobactam),class_a;class_b;class_c;class_d,JHFNIHVVXRKLEF-UHFFFAOYSA-N,pubchem
+Cefsulodin,NC(=O)c1cc[n+](CC2=C(C(=O)[O-])N3C(=O)C(NC(=O)C(c4ccccc4)S(=O)(=O)O)C3SC2)cc1,cephalosporin,Antipseudomonal cephalosporin,class_a;class_c;class_d,SYLKGLMBLAAGSC-UHFFFAOYSA-N,pubchem
+Latamoxef,COC1(NC(=O)C(C(=O)O)c2ccc(O)cc2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)COC21,cephalosporin,Oxacephem beta-lactam,class_a;class_b;class_c;class_d,JWCSIUVGFCSJCK-UHFFFAOYSA-N,pubchem
+Imipenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SCCN=CN)CC12,carbapenem,Carbapenem (PBP inhibitor); last-line beta-lactam,class_a;class_b;class_c;class_d,ZSKVGTPCRGIANV-UHFFFAOYSA-N,pubchem
+Meropenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,carbapenem,Carbapenem (PBP inhibitor); last-line beta-lactam,class_a;class_b;class_c;class_d,DMJNNHOOLUXYBV-UHFFFAOYSA-N,pubchem
+Ertapenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)C(C)C12,carbapenem,Carbapenem (PBP inhibitor),class_a;class_b;class_c;class_d,JUZNIMUFDBIJCM-UHFFFAOYSA-N,pubchem
+Doripenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(CNS(N)(=O)=O)C3)C(C)C12,carbapenem,Carbapenem (PBP inhibitor),class_a;class_b;class_c;class_d,AVAACINZEOAHHE-UHFFFAOYSA-N,pubchem
+Biapenem,CC(O)C1C(=O)N2C(C(=O)[O-])=C(SC3Cn4cnc[n+]4C3)C(C)C12,carbapenem,Carbapenem (PBP inhibitor),class_a;class_b;class_c;class_d,MRMBZHPJVKCOMA-UHFFFAOYSA-N,pubchem
+Panipenem,CC(=N)N1CCC(SC2=C(C(=O)O)N3C(=O)C(C(C)O)C3C2)C1,carbapenem,Carbapenem (PBP inhibitor),class_a;class_b;class_c;class_d,TYMABNNERDVXID-UHFFFAOYSA-N,pubchem
+Faropenem,CC(O)C1C(=O)N2C(C(=O)O)=C(C3CCCO3)SC12,carbapenem,Oral penem,class_a;class_b;class_c;class_d,HGGAKXAHAYOLDJ-UHFFFAOYSA-N,pubchem
+Aztreonam,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,monobactam,Monobactam; stable to metallo-beta-lactamases,class_a;class_c,WZPBZJONDBGPKJ-UHFFFAOYSA-N,pubchem
+Carumonam,NC(=O)OCC1C(NC(=O)C(=NOCC(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,monobactam,Monobactam; stable to metallo-beta-lactamases,class_a;class_c,UIMOJFJSJSIGLV-UHFFFAOYSA-N,pubchem
+Clavulanic acid,O=C(O)C1C(=CCO)OC2CC(=O)N21,beta-lactamase inhibitor,"Suicide inhibitor of class A serine beta-lactamases (TEM, SHV, CTX-M)",class_a,HZZVJAQRINQKSD-UHFFFAOYSA-N,pubchem
+Sulbactam,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O,beta-lactamase inhibitor,Suicide inhibitor of class A beta-lactamases,class_a,FKENQMMABCRJMK-UHFFFAOYSA-N,pubchem
+Tazobactam,CC1(Cn2ccnn2)C(C(=O)O)N2C(=O)CC2S1(=O)=O,beta-lactamase inhibitor,Suicide inhibitor of class A beta-lactamases incl. ESBLs,class_a,LPQZKKCYTLCDGQ-UHFFFAOYSA-N,pubchem
+Avibactam,NC(=O)C1CCC2CN1C(=O)N2OS(=O)(=O)O,beta-lactamase inhibitor,Non-beta-lactam diazabicyclooctane; reversible covalent inhibitor of class A/C beta-lactamases (incl. KPC),class_a;class_c,NDCUAPJVLWFHHB-UHFFFAOYSA-N,pubchem
+Relebactam,O=C(NC1CCNCC1)C1CCC2CN1C(=O)N2OS(=O)(=O)O,beta-lactamase inhibitor,Diazabicyclooctane; class A/C beta-lactamase inhibitor,class_a;class_c,SMOBCLHAZXOKDQ-UHFFFAOYSA-N,pubchem
+Vaborbactam,O=C(O)CC1CCC(NC(=O)Cc2cccs2)B(O)O1,beta-lactamase inhibitor,Cyclic boronic acid; KPC (class A) inhibitor,class_a,IOOWNWLVCOUUEX-UHFFFAOYSA-N,pubchem
+Durlobactam,CC1=CC2CN(C(=O)N2OS(=O)(=O)O)C1C(N)=O,beta-lactamase inhibitor,Diazabicyclooctane; broad class A/C/D inhibitor (paired with sulbactam),class_a;class_c;class_d,BISPBXFUKNXOQY-UHFFFAOYSA-N,pubchem
+Ciprofloxacin,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,MYSWGUAQZAJSOK-UHFFFAOYSA-N,pubchem
+Norfloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,OGJPXUAPXNRGGI-UHFFFAOYSA-N,pubchem
+Ofloxacin,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,GSDSWSVVBLHKDQ-UHFFFAOYSA-N,pubchem
+Moxifloxacin,COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,FABPRXSRWADJSP-UHFFFAOYSA-N,pubchem
+Gatifloxacin,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,XUBOMFCQGDBHNK-UHFFFAOYSA-N,pubchem
+Lomefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,ZEKZLJVOYLTDKK-UHFFFAOYSA-N,pubchem
+Enoxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,IDYZIJYBMGIQMJ-UHFFFAOYSA-N,pubchem
+Sparfloxacin,CC1CN(c2c(F)c(N)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)CC(C)N1,quinolone,DNA gyrase / topoisomerase IV inhibitor,efflux,DZZWHBIBMUVIIW-UHFFFAOYSA-N,pubchem
+Delafloxacin,Nc1nc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F,quinolone,Anionic fluoroquinolone (gyrase inhibitor),efflux,DYDCPNMLZGFQTM-UHFFFAOYSA-N,pubchem
+Nalidixic acid,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21,quinolone,First-generation quinolone (gyrase inhibitor),efflux,MHWLWQUZZRMNGJ-UHFFFAOYSA-N,pubchem
+Cinoxacin,CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,quinolone,First-generation quinolone (gyrase inhibitor),efflux,VDUWPHTZYNWKRN-UHFFFAOYSA-N,pubchem
+Pipemidic acid,CCn1cc(C(=O)O)c(=O)c2cnc(N3CCNCC3)nc21,quinolone,Piromidic quinolone (gyrase inhibitor),efflux,JOHZPMXAZQZXHR-UHFFFAOYSA-N,pubchem
+Tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,tetracycline,30S ribosomal subunit inhibitor,efflux,NWXMGUDVXFXRIG-UHFFFAOYSA-N,pubchem
+Doxycycline,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21,tetracycline,30S ribosomal subunit inhibitor,efflux,SGKRLCUYIXIAHR-UHFFFAOYSA-N,pubchem
+Minocycline,CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,tetracycline,30S ribosomal subunit inhibitor,efflux,FFTVPQUHLQBXQZ-UHFFFAOYSA-N,pubchem
+Oxytetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12,tetracycline,30S ribosomal subunit inhibitor,efflux,OWFJMIVZYSDULZ-UHFFFAOYSA-N,pubchem
+Chlortetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,tetracycline,30S ribosomal subunit inhibitor,efflux,DHPRQBPJLMKORJ-UHFFFAOYSA-N,pubchem
+Demeclocycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,tetracycline,30S ribosomal subunit inhibitor,efflux,GUXHBMASAHGULD-UHFFFAOYSA-N,pubchem
+Lymecycline,CN(C)C1C(=O)C(C(=O)NCNCCCCC(N)C(=O)O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,tetracycline,30S ribosomal subunit inhibitor (prodrug),efflux,PZTCVADFMACKLU-UHFFFAOYSA-N,pubchem
+Tigecycline,CN(C)c1cc(NC(=O)CNC(C)(C)C)c(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,tetracycline,Glycylcycline; evades Tet(A) efflux,efflux,SOVUOXKZCCAWOJ-UHFFFAOYSA-N,pubchem
+Eravacycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)c(NC(=O)CN5CCCC5)cc(F)c4CC3CC12,tetracycline,Fluorocycline; evades classic tetracycline efflux,efflux,AKLMFDDQCHURPW-UHFFFAOYSA-N,pubchem
+Omadacycline,CN(C)c1cc(CNCC(C)(C)C)c(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,tetracycline,Aminomethylcycline; evades efflux/ribosomal protection,efflux,VJYKVCURWJGLPG-UHFFFAOYSA-N,pubchem
+Sarecycline,CON(C)Cc1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,tetracycline,30S ribosomal subunit inhibitor,efflux,AYUMVPHUMFKFPJ-UHFFFAOYSA-N,pubchem
+Streptomycin,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,UCSJYZPVAKXKNQ-UHFFFAOYSA-N,pubchem
+Gentamicin C1a,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)CCC3N)C2O)OCC1(C)O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,VEGXETMJINRLTH-UHFFFAOYSA-N,pubchem
+Kanamycin A,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,SBUJHOSQTJFQJX-UHFFFAOYSA-N,pubchem
+Amikacin,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,aminoglycoside,30S ribosomal subunit inhibitor; resists many modifying enzymes,efflux,LKCWBDHBTVXHDL-UHFFFAOYSA-N,pubchem
+Tobramycin,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)CC1O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,NLVFBUXFDBBNBW-UHFFFAOYSA-N,pubchem
+Netilmicin,CCNC1CC(N)C(OC2OC(CN)=CCC2N)C(O)C1OC1OCC(C)(O)C(NC)C1O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,CIDUJQMULVCIBT-UHFFFAOYSA-N,pubchem
+Sisomicin,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)=CCC3N)C2O)OCC1(C)O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,URWAJWIAIPFPJE-UHFFFAOYSA-N,pubchem
+Dibekacin,NCC1CCC(N)C(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)O1,aminoglycoside,30S ribosomal subunit inhibitor,efflux,JJCQSGDBDPYCEO-UHFFFAOYSA-N,pubchem
+Isepamicin,CNC1C(O)C(OC2C(NC(=O)C(O)CN)CC(N)C(OC3OC(CN)C(O)C(O)C3O)C2O)OCC1(C)O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,UDIIBEDMEYAVNG-UHFFFAOYSA-N,pubchem
+Neomycin B,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CN)C(O)C(O)C3N)C2O)C(N)C(O)C1O,aminoglycoside,30S ribosomal subunit inhibitor (topical),efflux,PGBHMTALBVVCIT-UHFFFAOYSA-N,pubchem
+Paromomycin,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CO)C(O)C(O)C3N)C2O)C(N)C(O)C1O,aminoglycoside,30S ribosomal subunit inhibitor,efflux,UOZODPSAJZTQNH-UHFFFAOYSA-N,pubchem
+Spectinomycin,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O,aminoglycoside,30S ribosomal translocation inhibitor,efflux,UNFWWIHTNXNPBV-UHFFFAOYSA-N,pubchem
+Erythromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,macrolide,50S ribosomal subunit inhibitor,efflux,ULGZDMOVFRHVEP-UHFFFAOYSA-N,pubchem
+Azithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O,macrolide,50S ribosomal subunit inhibitor,efflux,MQTOSJVFKKJCRP-UHFFFAOYSA-N,pubchem
+Clarithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,macrolide,50S ribosomal subunit inhibitor,efflux,AGOYDEPGAOXOCK-UHFFFAOYSA-N,pubchem
+Roxithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,macrolide,50S ribosomal subunit inhibitor,efflux,RXZBMPWDPOLZGW-UHFFFAOYSA-N,pubchem
+Telithromycin,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C,macrolide,Ketolide; 50S ribosomal subunit inhibitor,efflux,LJVAJPDWBABPEJ-UHFFFAOYSA-N,pubchem
+Spiramycin,C[C@@H]1C/C=C/C=C/[C@H](O[C@H]2CC[C@H](N(C)C)[C@H](C)O2)[C@H](C)C[C@H](CC=O)[C@H](O[C@H]2O[C@@H](C)[C@H](O[C@@H]3C[C@](C)(O)[C@H](O)[C@@H](C)O3)[C@@H](N(C)C)[C@@H]2O)C[C@H](O)CC(=O)O1,macrolide,50S ribosomal subunit inhibitor,efflux,ITXCISPRBKBZJA-GHHRGEEJSA-N,chembl
+Josamycin,COC1C(OC(C)=O)CC(=O)OC(C)CC=CC=CC(O)C(C)CC(CC=O)C1OC1OC(C)C(OC2CC(C)(O)C(OC(=O)CC(C)C)C(C)O2)C(N(C)C)C1O,macrolide,50S ribosomal subunit inhibitor,efflux,XJSFLOJWULLJQS-UHFFFAOYSA-N,pubchem
+Fidaxomicin,CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)OC1C(C)OC(OCC2=CC=CCC(O)C(C)=CC(CC)C(OC3OC(C)(C)C(OC(=O)C(C)C)C(O)C3O)C(C)=CC(C)=CCC(C(C)O)OC2=O)C(OC)C1O,macrolide,RNA polymerase sigma-factor inhibitor (C. difficile),,ZVGNESXIJDCBKN-UHFFFAOYSA-N,pubchem
+Clindamycin,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,lincosamide,50S ribosomal subunit inhibitor,efflux,KDLRVYVGXIQJDK-UHFFFAOYSA-N,pubchem
+Lincomycin,CCCC1CC(C(=O)NC(C(C)O)C2OC(SC)C(O)C(O)C2O)N(C)C1,lincosamide,50S ribosomal subunit inhibitor,efflux,OJMMVQQUTAEWLP-UHFFFAOYSA-N,pubchem
+Linezolid,CC(=O)NCC1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1,oxazolidinone,50S ribosomal initiation-complex inhibitor,,TYZROVQLWOKYKF-UHFFFAOYSA-N,pubchem
+Tedizolid,Cn1nnc(-c2ccc(-c3ccc(N4CC(CO)OC4=O)cc3F)cn2)n1,oxazolidinone,50S ribosomal initiation-complex inhibitor,,XFALPSLJIHVRKE-UHFFFAOYSA-N,pubchem
+Vancomycin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,glycopeptide,Binds D-Ala-D-Ala termini; blocks cell-wall synthesis,,MYPYJXKWCTUITO-UHFFFAOYSA-N,pubchem
+Teicoplanin,CCCCCCCCCC(=O)NC1C(Oc2c3cc4cc2Oc2ccc(cc2Cl)C(OC2OC(CO)C(O)C(O)C2NC(C)=O)C2NC(=O)C(NC(=O)C4NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)O3)NC(=O)C(N)c3ccc(O)c(c3)Oc3cc(O)cc4c3)c3ccc(O)c(c3)-c3c(OC4OC(CO)C(O)C(O)C4O)cc(O)cc3C(C(=O)O)NC2=O)OC(CO)C(O)C1O,glycopeptide,Binds D-Ala-D-Ala termini,,BJNLLBUOHPVGFT-UHFFFAOYSA-N,pubchem
+Telavancin,CCCCCCCCCCNCCNC1(C)CC(OC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CC(C)C)NC)C(O)c5ccc(c(Cl)c5)O4)c4ccc(O)c(c4)-c4c(cc(O)c(CNCP(=O)(O)O)c4O)C(C(=O)O)NC3=O)OC(CO)C(O)C2O)OC(C)C1O,glycopeptide,Lipoglycopeptide: D-Ala-D-Ala binding + membrane disruption,,ONUMZHGUFYIKPM-UHFFFAOYSA-N,pubchem
+Dalbavancin,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3OC3OC(C(=O)O)C(O)C(O)C3NC(=O)CCCCCCCCC(C)C)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(OC2OC(CO)C(O)C(O)C2O)cc(O)cc1C(C(=O)NCCCN(C)C)NC3=O,glycopeptide,Lipoglycopeptide; D-Ala-D-Ala binding,,KGPGQDLTDHGEGT-UHFFFAOYSA-N,pubchem
+Oritavancin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(OC3CC(C)(N)C(O)C(C)O3)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(NCc3ccc(-c4ccc(Cl)cc4)cc3)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,glycopeptide,Lipoglycopeptide; D-Ala-D-Ala binding + membrane disruption,,VHFGEBVPHAGQPI-UHFFFAOYSA-N,pubchem
+Rifampicin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,rifamycin,RNA polymerase (rpoB) inhibitor,efflux,JQXXHWHPUNPDRT-UHFFFAOYSA-N,pubchem
+Rifabutin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(c4c3C2=O)NC2(CCN(CC(C)C)CC2)N=5)=NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,rifamycin,RNA polymerase (rpoB) inhibitor,efflux,ZWBTYMGEBZUQTK-UHFFFAOYSA-N,pubchem
+Rifapentine,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,rifamycin,RNA polymerase (rpoB) inhibitor,efflux,WDZCUPBHRAEYDL-UHFFFAOYSA-N,pubchem
+Rifaximin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,rifamycin,RNA polymerase inhibitor (luminal),efflux,NZCRJKRKKOLAOJ-UHFFFAOYSA-N,pubchem
+Chloramphenicol,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,phenicol,50S ribosomal peptidyl-transferase inhibitor,efflux,WIIZWVCIJKGZOK-UHFFFAOYSA-N,pubchem
+Thiamphenicol,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1,phenicol,50S ribosomal peptidyl-transferase inhibitor,efflux,OTVAEFIXJLOWRX-UHFFFAOYSA-N,pubchem
+Fosfomycin,CC1OC1P(=O)(O)O,phosphonate,MurA (UDP-GlcNAc enolpyruvyl transferase) inhibitor,,YMDXZJFXQJVXBF-UHFFFAOYSA-N,pubchem
+Nitrofurantoin,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,nitrofuran,Nitro-reduction generates multiple cytotoxic species,,NXFQHRVNIOXGAQ-UHFFFAOYSA-N,pubchem
+Furazolidone,O=C1OCCN1N=Cc1ccc([N+](=O)[O-])o1,nitrofuran,Nitro-reduction cytotoxicity,,PLHJDBGFXBMTGZ-UHFFFAOYSA-N,pubchem
+Nitrofurazone,NC(=O)NN=Cc1ccc([N+](=O)[O-])o1,nitrofuran,Nitro-reduction cytotoxicity,,IAIWVQXQOWNYOU-UHFFFAOYSA-N,pubchem
+Metronidazole,Cc1ncc([N+](=O)[O-])n1CCO,nitroimidazole,Anaerobic nitro-reduction cytotoxicity,,VAOCPAMSLUNLGC-UHFFFAOYSA-N,pubchem
+Tinidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,nitroimidazole,Anaerobic nitro-reduction cytotoxicity,,HJLSLZFTEKNLFI-UHFFFAOYSA-N,pubchem
+Sulfamethoxazole,Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1,sulfonamide,Dihydropteroate synthase inhibitor,,JLKIGFTWXXRPMT-UHFFFAOYSA-N,pubchem
+Sulfadiazine,Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,sulfonamide,Dihydropteroate synthase inhibitor,,SEEPANYCNGTZFQ-UHFFFAOYSA-N,pubchem
+Sulfamethizole,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,sulfonamide,Dihydropteroate synthase inhibitor,,VACCAVUAMIDAGB-UHFFFAOYSA-N,pubchem
+Sulfisoxazole,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,sulfonamide,Dihydropteroate synthase inhibitor,,NHUHCSRWZMLRLA-UHFFFAOYSA-N,pubchem
+Sulfanilamide,Nc1ccc(S(N)(=O)=O)cc1,sulfonamide,Parent sulfonamide (PABA antimetabolite),,FDDDEECHVMSUSB-UHFFFAOYSA-N,pubchem
+Trimethoprim,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,diaminopyrimidine,Dihydrofolate reductase (DHFR) inhibitor,,IEDVJHCEMCRBQM-UHFFFAOYSA-N,pubchem
+Cycloserine,NC1CONC1=O,anti-TB,D-Ala racemase/synthetase inhibitor,,DYDCUQKUCUHJBH-UHFFFAOYSA-N,pubchem
+Ethambutol,CCC(CO)NCCNC(CC)CO,anti-TB,Arabinosyl-transferase inhibitor,,AEUTYOVWOVBAKS-UHFFFAOYSA-N,pubchem
+Isoniazid,NNC(=O)c1ccncc1,anti-TB,Mycolic-acid synthesis inhibitor (KasA/InhA),,QRXWMOHMRWLFEY-UHFFFAOYSA-N,pubchem
+Pyrazinamide,NC(=O)c1cnccn1,anti-TB,Fatty-acid synthase / RpsA prodrug,,IPEHBUMCGVEMRF-UHFFFAOYSA-N,pubchem
+Ethionamide,CCc1cc(C(N)=S)ccn1,anti-TB,InhA mycolic-acid inhibitor (prodrug),,AEOCXXJPGCBFJA-UHFFFAOYSA-N,pubchem
+Prothionamide,CCCc1cc(C(N)=S)ccn1,anti-TB,InhA mycolic-acid inhibitor (prodrug),,VRDIULHPQTYCLN-UHFFFAOYSA-N,pubchem
+Bedaquiline,COc1nc2ccc(Br)cc2cc1C(c1ccccc1)C(O)(CCN(C)C)c1cccc2ccccc12,anti-TB,Mycobacterial F1FO-ATP synthase inhibitor,,QUIJNHUBAXPXFS-UHFFFAOYSA-N,pubchem
+Delamanid,CC1(COc2ccc(N3CCC(Oc4ccc(OC(F)(F)F)cc4)CC3)cc2)Cn2cc([N+](=O)[O-])nc2O1,anti-TB,Mycolic-acid synthesis inhibitor,,XDAOLTSRNUSPPH-UHFFFAOYSA-N,pubchem
+Pretomanid,O=[N+]([O-])c1cn2c(n1)OCC(OCc1ccc(OC(F)(F)F)cc1)C2,anti-TB,NO donor; mycolic-acid and respiratory inhibition,,ZLHZLMOSPGACSZ-UHFFFAOYSA-N,pubchem
+Clofazimine,CC(C)N=c1cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1,anti-TB,Membrane redox cycling,,WDQPAMHFFCXSNU-UHFFFAOYSA-N,pubchem
+Colistin A,CCC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,polymyxin,Cationic lipopeptide; disrupts outer membrane (LPS),,XDJYMJULXQKGMM-UHFFFAOYSA-N,pubchem
+Polymyxin B1,CC[C@@H](C)CCCCC(=O)N[C@@H](CCN)C(=O)N[C@H](C(=O)N[C@@H](CCN)C(=O)N[C@H]1CCNC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCN)NC(=O)[C@H](CCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](CCN)NC1=O)[C@@H](C)O,polymyxin,Cationic lipopeptide; disrupts outer membrane (LPS),,WQVJHHACXVLGBL-GOVYWFKWSA-N,chembl
+Daptomycin,CCCCCCCCCC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC1C(=O)NCC(=O)NC(CCCN)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CO)C(=O)NC(C(C)CC(=O)O)C(=O)NC(CC(=O)c2ccccc2N)C(=O)OC1C,lipopeptide,Calcium-dependent membrane depolarization,,DOAKLVKFURWEDJ-UHFFFAOYSA-N,pubchem
+Fusidic acid,CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)O,steroid antibiotic,Elongation factor G (EF-G) inhibitor,,IECPWNUMDGFDKC-UHFFFAOYSA-N,pubchem
+Mupirocin,CC(=CC(=O)OCCCCCCCCC(=O)O)CC1OCC(CC2OC2C(C)C(C)O)C(O)C1O,pseudomonic acid,Isoleucyl-tRNA synthetase inhibitor,,MINDHVHHQZYEEK-UHFFFAOYSA-N,pubchem
+Retapamulin,C=CC1(C)CC(OC(=O)CSC2CC3CCC(C2)N3C)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O,pleuromutilin,50S peptidyl-transferase center inhibitor,,STZYTFJPGGDRJD-UHFFFAOYSA-N,pubchem
+Tiamulin,C=CC1(C)CC(OC(=O)CSCCN(CC)CC)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O,pleuromutilin,50S peptidyl-transferase center inhibitor (veterinary),,UURAUHCOJAIIRQ-UHFFFAOYSA-N,pubchem
+Methenamine,C1N2CN3CN1CN(C2)C3,antiseptic,Formaldehyde release in acidic urine,,VKYKSIONXSXAKP-UHFFFAOYSA-N,pubchem
+PA beta-naphthylamide,N=C(N)NCCC[C@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1,efflux pump inhibitor,Peptidomimetic RND efflux inhibitor (PA beta N) that resensitizes multidrug-resistant strains,efflux,ZNHUFUZDUQRKBB-VXKWHMMOSA-N,curated
+CCCP,N#CC(C#N)=NNc1cccc(Cl)c1,efflux pump inhibitor,Protonophore; collapses proton-motive force driving RND efflux (research tool),efflux,UGTJLJZQQFGTJD-UHFFFAOYSA-N,curated
+1-(1-Naphthylmethyl)piperazine,c1ccc2c(CN3CCCCC3)cccc2c1,efflux pump inhibitor,NMP; AcrB competitive efflux inhibitor,efflux,LDGDDRDPNUGELX-UHFFFAOYSA-N,curated
+Verapamil,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,efflux pump inhibitor,Calcium-channel blocker repurposed as bacterial efflux adjuvant,efflux,SGTNSNPWRIOYBX-UHFFFAOYSA-N,pubchem
+Reserpine,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,efflux pump inhibitor,Alkaloid that inhibits bacterial efflux pumps,efflux,QEVHRUUCFGRFIF-UHFFFAOYSA-N,pubchem
+Thioridazine,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,efflux pump inhibitor,Phenothiazine; efflux and membrane-potential adjuvant,efflux,KLBQZWRITKRQQV-UHFFFAOYSA-N,pubchem
+Chlorpromazine,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,efflux pump inhibitor,Phenothiazine; efflux adjuvant,efflux,ZPEIMTDSQAKGNT-UHFFFAOYSA-N,pubchem
+Ciclopirox,Cc1cc(C2CCCCC2)n(O)c(=O)c1,metalloenzyme inhibitor,Metal chelator; reported NDM-1 metallo-beta-lactamase inhibitor,class_b,SCKYRAXSEDYPSA-UHFFFAOYSA-N,pubchem
+Captopril,CC(CS)C(=O)N1CCCC1C(=O)O,metalloenzyme inhibitor,Thiol ACE inhibitor; prototype NDM-1 thiol inhibitor,class_b,FAKRSMQSSFJEIM-UHFFFAOYSA-N,pubchem
+Ebselen,O=c1c2ccccc2[se]n1-c1ccccc1,metalloenzyme inhibitor,Organoselenium; covalent/Se-coordinating NDM-1 inhibitor,class_b,DYEFUKCXAQOFHX-UHFFFAOYSA-N,pubchem
+Dipicolinic acid,O=C(O)c1cccc(C(=O)O)n1,metalloenzyme inhibitor,Zn2+ chelator; inhibits metallo-beta-lactamases,class_b,WJJMNDUMQPNECX-UHFFFAOYSA-N,curated
+Aspergillomarasmine A,NC(CNC(CNC(CC(=O)O)C(=O)O)C(=O)O)C(=O)O,metalloenzyme inhibitor,Natural fungal chelator; removes Zn2+ and restores carbapenem activity against NDM-1,class_b,XFTWUNOVBCHBJR-UHFFFAOYSA-N,pubchem
+EDTA,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,metalloenzyme inhibitor,Broad divalent-cation chelator (research control),class_b,KCXVZYZYPLLWCC-UHFFFAOYSA-N,curated
+"2,2'-Bipyridine",c1ccc(-c2ccccn2)nc1,metalloenzyme inhibitor,Bidentate Zn2+ chelator; metalloenzyme probe,class_b,ROFVEXUMMXZLPA-UHFFFAOYSA-N,pubchem
+"1,10-Phenanthroline",c1cnc2c(c1)ccc1cccnc12,metalloenzyme inhibitor,Rigid bidentate Zn2+ chelator,class_b,DGEZNRSVGBDHLK-UHFFFAOYSA-N,pubchem
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,decoy,NSAID (COX inhibitor) - unrelated antibacterial control,,HEFNNWSXXWATRW-UHFFFAOYSA-N,pubchem
+Acetaminophen,CC(=O)Nc1ccc(O)cc1,decoy,Analgesic - unrelated antibacterial control,,RZVAJINKPMORJF-UHFFFAOYSA-N,pubchem
+Aspirin,CC(=O)Oc1ccccc1C(=O)O,decoy,NSAID - unrelated antibacterial control,,BSYNRYMUTXBXSQ-UHFFFAOYSA-N,pubchem
+Caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,decoy,Stimulant - unrelated antibacterial control,,RYYVLZVUVIJVGH-UHFFFAOYSA-N,pubchem
+Naproxen,COc1ccc2cc(C(C)C(=O)O)ccc2c1,decoy,NSAID - unrelated antibacterial control,,CMWTZPSULFXXJA-UHFFFAOYSA-N,pubchem
+Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,decoy,Beta-blocker - unrelated antibacterial control,,AQHHHDLHHXJYJD-UHFFFAOYSA-N,pubchem
+Metoprolol,COCCc1ccc(OCC(O)CNC(C)C)cc1,decoy,Beta-blocker - unrelated antibacterial control,,IUBSYMUCCVWXPE-UHFFFAOYSA-N,pubchem
+Atenolol,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,decoy,Beta-blocker - unrelated antibacterial control,,METKIMKYRPQLGS-UHFFFAOYSA-N,pubchem
+Warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,decoy,Anticoagulant - unrelated antibacterial control,,PJVWKTKQMONHTI-UHFFFAOYSA-N,pubchem
+Loratadine,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,decoy,Antihistamine - unrelated antibacterial control,,JCCNYMKQOSZNPW-UHFFFAOYSA-N,pubchem
+Famotidine,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,decoy,H2 antagonist - unrelated antibacterial control,,XUFQPHANEAPEMJ-UHFFFAOYSA-N,pubchem
+Losartan,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,decoy,ARB antihypertensive - unrelated antibacterial control,,PSIFNNKUMBGKDQ-UHFFFAOYSA-N,pubchem
+Fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,decoy,Antifungal (CYP51) - antibacterial negative control,,RFHAOTPXVQNOHP-UHFFFAOYSA-N,pubchem
+Metformin,CN(C)C(=N)N=C(N)N,decoy,Biguanide antidiabetic - unrelated antibacterial control,,XZWYZXLIPXDOLR-UHFFFAOYSA-N,pubchem

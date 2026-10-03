@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Local caches & secrets
+data/cache/
+.env
+.env.*
+
+# Ephemeral API job store
+outputs/jobs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

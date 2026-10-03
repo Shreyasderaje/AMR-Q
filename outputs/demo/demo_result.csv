@@ -1,0 +1,25 @@
+rank,name,ml_score,delta_e_ev,drug_class,smiles
+1,Ceftazidime,0.7273,-0.2613,cephalosporin,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O
+2,Cefazolin,0.6757,-0.2606,cephalosporin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1
+3,Cefuroxime,0.6432,-0.2491,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1
+4,Ceftaroline,0.6388,-0.2622,cephalosporin,CCON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NP(=O)(O)O)n1
+5,Cefpodoxime,0.6017,-0.2487,cephalosporin,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1
+6,Carbenicillin,0.601,-0.2485,penicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O
+7,Cephalexin,0.5986,-0.2487,cephalosporin,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1
+8,Cefdinir,0.5923,-0.2487,cephalosporin,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1
+9,Sulbactam,0.5681,-0.2485,beta-lactamase inhibitor,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O
+10,Cephaloridine,0.5636,-0.2484,cephalosporin,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12
+11,Demeclocycline,0.3927,-0.2604,tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12
+12,Gentamicin C1a,0.3688,-0.2582,aminoglycoside,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)CCC3N)C2O)OCC1(C)O
+13,Ciprofloxacin,0.3625,-0.2486,quinolone,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O
+14,Verapamil,0.3602,-0.2589,efflux pump inhibitor,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC
+15,Thiamphenicol,0.3497,-0.2587,phenicol,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1
+16,Famotidine,0.3452,-0.2475,decoy,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1
+17,Aspirin,0.3224,-0.2485,decoy,CC(=O)Oc1ccccc1C(=O)O
+18,Sulfanilamide,0.3206,-0.247,sulfonamide,Nc1ccc(S(N)(=O)=O)cc1
+19,Nalidixic acid,0.3179,-0.2486,quinolone,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21
+20,Spectinomycin,0.311,-0.2473,aminoglycoside,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O
+21,Fosfomycin,0.3092,-0.2476,phosphonate,CC1OC1P(=O)(O)O
+22,Rifapentine,0.3002,-0.2486,rifamycin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C
+23,Tiamulin,0.296,-0.2482,pleuromutilin,C=CC1(C)CC(OC(=O)CSCCN(CC)CC)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O
+24,Atenolol,0.2895,-0.2477,decoy,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1
