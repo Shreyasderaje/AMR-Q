@@ -1,8 +1,8 @@
 /* AMR-Q platform dashboard — React (compiled in-browser by Babel standalone). */
 const { useState, useEffect, useRef, useCallback } = React;
 
-/* GitHub repo link is injected after publishing; hidden when null. */
-const REPO_URL = null;
+/* GitHub repository (source link in the navbar). */
+const REPO_URL = "https://github.com/Shreyasderaje/AMR-Q";
 
 const KNOWN_LABELS = {
   class_a: "Class A β-lactamase",
