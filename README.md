@@ -42,6 +42,14 @@ producing a ranked, explainable list of resistance-breaking candidates in minute
 > *relative scoring signal*, not validated binding free energies. Methodology and
 > limitations are documented in [docs/SCIENCE.md](docs/SCIENCE.md).
 
+## 📄 Research paper
+
+A full paper describing this system is included in the repository:
+**[paper/amrq_paper.pdf](paper/amrq_paper.pdf)** — *"AMR-Q: A Quantum–Classical Hybrid
+Pipeline for Prioritizing Resistance-Breaking Antibiotic Candidates"* (LaTeX source in
+[`paper/amrq_paper.tex`](paper/amrq_paper.tex); figures regenerate from raw pipeline
+outputs via `python scripts/paper_figures.py`).
+
 ## What you get
 
 | | |

@@ -1,25 +1,57 @@
 rank,name,ml_score,delta_e_ev,drug_class,smiles
-1,Ceftazidime,0.7273,-0.2613,cephalosporin,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O
-2,Cefazolin,0.6757,-0.2606,cephalosporin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1
-3,Cefuroxime,0.6432,-0.2491,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1
-4,Ceftaroline,0.6388,-0.2622,cephalosporin,CCON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NP(=O)(O)O)n1
-5,Cefpodoxime,0.6017,-0.2487,cephalosporin,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1
-6,Carbenicillin,0.601,-0.2485,penicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O
-7,Cephalexin,0.5986,-0.2487,cephalosporin,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1
-8,Cefdinir,0.5923,-0.2487,cephalosporin,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1
-9,Sulbactam,0.5681,-0.2485,beta-lactamase inhibitor,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O
-10,Cephaloridine,0.5636,-0.2484,cephalosporin,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12
-11,Demeclocycline,0.3927,-0.2604,tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12
-12,Gentamicin C1a,0.3688,-0.2582,aminoglycoside,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)CCC3N)C2O)OCC1(C)O
-13,Ciprofloxacin,0.3625,-0.2486,quinolone,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O
-14,Verapamil,0.3602,-0.2589,efflux pump inhibitor,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC
-15,Thiamphenicol,0.3497,-0.2587,phenicol,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1
-16,Famotidine,0.3452,-0.2475,decoy,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1
-17,Aspirin,0.3224,-0.2485,decoy,CC(=O)Oc1ccccc1C(=O)O
-18,Sulfanilamide,0.3206,-0.247,sulfonamide,Nc1ccc(S(N)(=O)=O)cc1
-19,Nalidixic acid,0.3179,-0.2486,quinolone,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21
-20,Spectinomycin,0.311,-0.2473,aminoglycoside,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O
-21,Fosfomycin,0.3092,-0.2476,phosphonate,CC1OC1P(=O)(O)O
-22,Rifapentine,0.3002,-0.2486,rifamycin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C
-23,Tiamulin,0.296,-0.2482,pleuromutilin,C=CC1(C)CC(OC(=O)CSCCN(CC)CC)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O
-24,Atenolol,0.2895,-0.2477,decoy,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1
+1,Cefotaxime,0.7341,-0.2606,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1csc(N)n1
+2,Ceftazidime,0.7273,-0.2613,cephalosporin,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O
+3,Cefepime,0.6761,-0.2606,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1
+4,Cefazolin,0.6757,-0.2606,cephalosporin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1
+5,Aztreonam,0.6749,-0.2607,monobactam,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O
+6,Meropenem,0.6638,-0.2606,carbapenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12
+7,Ticarcillin,0.6537,-0.2485,penicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O
+8,Cefuroxime,0.6432,-0.2491,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1
+9,Ceftaroline,0.6388,-0.2622,cephalosporin,CCON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NP(=O)(O)O)n1
+10,Dicloxacillin,0.6121,-0.2485,penicillin,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+11,Cefpodoxime,0.6017,-0.2487,cephalosporin,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1
+12,Carbenicillin,0.601,-0.2485,penicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O
+13,Cephalexin,0.5986,-0.2487,cephalosporin,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1
+14,Cefdinir,0.5923,-0.2487,cephalosporin,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1
+15,Cefpirome,0.5698,-0.2486,cephalosporin,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CSC12)c1csc(N)n1
+16,Sulbactam,0.5681,-0.2485,beta-lactamase inhibitor,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O
+17,Cephaloridine,0.5636,-0.2484,cephalosporin,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12
+18,Benzylpenicillin,0.5168,-0.2485,penicillin,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O
+19,Nafcillin,0.515,-0.2486,penicillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+20,Minocycline,0.4355,-0.2604,tetracycline,CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O
+21,Linezolid,0.4286,-0.2609,oxazolidinone,CC(=O)NCC1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1
+22,Lomefloxacin,0.4167,-0.2486,quinolone,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21
+23,Gatifloxacin,0.4118,-0.2487,quinolone,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+24,Tedizolid,0.4082,-0.2609,oxazolidinone,Cn1nnc(-c2ccc(-c3ccc(N4CC(CO)OC4=O)cc3F)cn2)n1
+25,Demeclocycline,0.3927,-0.2604,tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12
+26,Tobramycin,0.3901,-0.2583,aminoglycoside,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)CC1O
+27,Telithromycin,0.3887,-0.261,macrolide,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C
+28,Lymecycline,0.3845,-0.2606,tetracycline,CN(C)C1C(=O)C(C(=O)NCNCCCCC(N)C(=O)O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12
+29,Retapamulin,0.3805,-0.2601,pleuromutilin,C=CC1(C)CC(OC(=O)CSC2CC3CCC(C2)N3C)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O
+30,Fusidic acid,0.38,-0.2604,steroid antibiotic,CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)O
+31,Fidaxomicin,0.3757,-0.2608,macrolide,CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)OC1C(C)OC(OCC2=CC=CCC(O)C(C)=CC(CC)C(OC3OC(C)(C)C(OC(=O)C(C)C)C(O)C3O)C(C)=CC(C)=CCC(C(C)O)OC2=O)C(OC)C1O
+32,Gentamicin C1a,0.3688,-0.2582,aminoglycoside,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)CCC3N)C2O)OCC1(C)O
+33,Ciprofloxacin,0.3625,-0.2486,quinolone,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O
+34,Verapamil,0.3602,-0.2589,efflux pump inhibitor,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC
+35,Isepamicin,0.3522,-0.2586,aminoglycoside,CNC1C(O)C(OC2C(NC(=O)C(O)CN)CC(N)C(OC3OC(CN)C(O)C(O)C3O)C2O)OCC1(C)O
+36,Thiamphenicol,0.3497,-0.2587,phenicol,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1
+37,Famotidine,0.3452,-0.2475,decoy,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1
+38,Chlortetracycline,0.3335,-0.2484,tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12
+39,Mupirocin,0.3262,-0.2485,pseudomonic acid,CC(=CC(=O)OCCCCCCCCC(=O)O)CC1OCC(CC2OC2C(C)C(C)O)C(O)C1O
+40,Aspirin,0.3224,-0.2485,decoy,CC(=O)Oc1ccccc1C(=O)O
+41,Sulfanilamide,0.3206,-0.247,sulfonamide,Nc1ccc(S(N)(=O)=O)cc1
+42,Nalidixic acid,0.3179,-0.2486,quinolone,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21
+43,Spectinomycin,0.311,-0.2473,aminoglycoside,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O
+44,Fosfomycin,0.3092,-0.2476,phosphonate,CC1OC1P(=O)(O)O
+45,Kanamycin A,0.3089,-0.2467,aminoglycoside,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O
+46,Rifapentine,0.3002,-0.2486,rifamycin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C
+47,Propranolol,0.2997,-0.2476,decoy,CC(C)NCC(O)COc1cccc2ccccc12
+48,Tiamulin,0.296,-0.2482,pleuromutilin,C=CC1(C)CC(OC(=O)CSCCN(CC)CC)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O
+49,"2,2'-Bipyridine",0.2953,-0.2447,metalloenzyme inhibitor,c1ccc(-c2ccccn2)nc1
+50,Atenolol,0.2895,-0.2477,decoy,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1
+51,Chlorpromazine,0.2877,-0.2452,efflux pump inhibitor,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21
+52,Ebselen,0.2859,-0.2161,metalloenzyme inhibitor,O=c1c2ccccc2[se]n1-c1ccccc1
+53,Thioridazine,0.2819,-0.2452,efflux pump inhibitor,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2
+54,Tinidazole,0.2795,-0.2475,nitroimidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C
+55,Prothionamide,0.2698,-0.2361,anti-TB,CCCc1cc(C(N)=S)ccn1
+56,Furazolidone,0.2296,-0.2385,nitrofuran,O=C1OCCN1N=Cc1ccc([N+](=O)[O-])o1

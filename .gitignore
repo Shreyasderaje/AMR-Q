@@ -22,6 +22,11 @@ data/cache/
 # Ephemeral API job store
 outputs/jobs/
 
+# Paper build artifacts (source .tex + figures are committed; compiler + renders are not)
+tools/
+paper/pages/
+paper/amrq_pdf.aux
+
 # OS / editor
 .DS_Store
 Thumbs.db
