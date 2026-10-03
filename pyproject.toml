@@ -9,7 +9,7 @@ description = "AMR-Q — Quantum-Assisted Antibiotic Resistance Fighter: VQE + M
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "AMR-Q Contributors" }]
+authors = [{ name = "Shreyas Deraje" }]
 keywords = ["quantum-computing", "vqe", "qiskit", "antimicrobial-resistance", "drug-discovery", "cheminformatics"]
 classifiers = [
     "Development Status :: 4 - Beta",
